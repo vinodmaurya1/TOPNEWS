@@ -1,0 +1,1590 @@
+  articles =[
+    {
+      source: {
+        id: "the-verge",
+        name: "The Verge",
+      },
+      author: "Monica Chin",
+      title: "Where are all the new Macs?",
+      description:
+        "Last November, Apple announced an ambitious plan to transition all of its Mac computers away from Intel processors, adopting its own silicon instead. It’s been over two years, and we’re still waiting.",
+      url: "https://www.theverge.com/23509125/apple-arm-transition-deadline-missed-m1-m2-mac-pro-macbook",
+      urlToImage:
+        "https://cdn.vox-cdn.com/thumbor/lo7-8SLbqKqDrSiWJgicIGMGzDQ=/0x0:2040x1361/1200x628/filters:focal(1020x681:1021x682)/cdn.vox-cdn.com/uploads/chorus_asset/file/23320969/bfarsace_171213_5072_0092.jpg",
+      publishedAt: "2022-12-15T13:30:00Z",
+      content:
+        "Two Mac Studios don’t quite make an Arm Mac Pro. | Photo by Becca Farsace / The Verge\r\n\n \n\n Does anyone else vividly remember the day of June 22nd, 2020? I sure do. That was the day when Apple announ… [+5684 chars]",
+    },
+    {
+      source: {
+        id: "the-verge",
+        name: "The Verge",
+      },
+      author: "Jennifer Pattison Tuohy",
+      title:
+        "Google Nest and Android devices are now Matter compatible — yes, right now",
+      description:
+        "Google has been quietly updating millions of Google Nest smart speakers, displays, and Wi-Fi routers as well as billions of Android phones and tablets to Matter. Now, Android and Google Home users can connect Google devices with Matter devices from other bran…",
+      url: "https://www.theverge.com/2022/12/15/23509924/google-nest-android-matter-smart-home-support-arrives",
+      urlToImage:
+        "https://cdn.vox-cdn.com/thumbor/Pj3TZaRoxyRzQwErcGK697e_SRA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23451196/acastro_220510_STK123_0002.jpg",
+      publishedAt: "2022-12-15T14:00:00Z",
+      content:
+        "Google Nest and Android devices are now Matter compatible yes, right now\r\nGoogle Nest and Android devices are now Matter compatible yes, right now\r\n / Google says it has already updated millions of N… [+5262 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Gizmodo.com",
+      },
+      author: "Florence Ion",
+      title:
+        "Now You Can Use Your Android and Nest Devices to Pair With Matter",
+      description:
+        "Matter, the smart home standard that promises to unify us all, continues its slow and steady release across platforms. Google is the next to announce compatibility for its Nest devices and Android phones.Read more...",
+      url: "https://gizmodo.com/android-google-nest-matter-smart-home-samsung-hub-1849895682",
+      urlToImage:
+        "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/cb7cf0fb18a63e0a2467eb283a4d5b80.jpg",
+      publishedAt: "2022-12-15T14:00:00Z",
+      content:
+        "Matter, the smart home standard that promises to unify us all, continues its slow and steady release across platforms. Google is the next to announce compatibility for its Nest devices and Android ph… [+1648 chars]",
+    },
+    {
+      source: {
+        id: "reuters",
+        name: "Reuters",
+      },
+      author: null,
+      title:
+        "Ericsson to reach lower end of margin goal range by 2024 - Reuters",
+      description:
+        'Swedish telecom equipment maker Ericsson <a href="https://www.reuters.com/companies/ERICb.ST" target="_blank">(ERICb.ST)</a> said on Thursday it was committed to reaching the lower end of its long-term target of a profit (EBITA) margin of 15-18% by 2024 as it…',
+      url: "https://www.reuters.com/business/media-telecom/ericsson-reach-lower-end-margin-goal-range-by-2024-2022-12-15/",
+      urlToImage:
+        "https://www.reuters.com/resizer/GjLxPHehITljlsqu0iX2KWGOrpw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HCOBJW4KNVLDXHOMMGNXB6YCOA.jpg",
+      publishedAt: "2022-12-15T13:53:00Z",
+      content:
+        "STOCKHOLM, Dec 15 (Reuters) - Swedish telecom equipment maker Ericsson (ERICb.ST) said on Thursday it was committed to reaching the lower end of its long-term target of a profit (EBITA) margin of 15-… [+803 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Android Central",
+      },
+      author: "namerahsaudfatmi@gmail.com (Namerah Saud Fatmi)",
+      title: "Which Android phones have eSIM support?",
+      description:
+        "Trying to find out whether an Android phone has eSIM support? Here's a list of every compatible device for your reference.",
+      url: "https://www.androidcentral.com/phones/which-android-phones-have-esim-support",
+      urlToImage:
+        "https://cdn.mos.cms.futurecdn.net/WMSYJLdwmFqwJVykFYprSK-1200-80.jpg",
+      publishedAt: "2022-12-15T14:00:29Z",
+      content:
+        "Nowadays getting a cellphone plan can be as easy as downloading an eSIM directly onto your Android phone. While the technology isn't widely adopted just yet, big tech companies are slowly but surely … [+3530 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "The Guardian",
+      },
+      author:
+        "Presented by Max Rushden with Barry Glendenning, Philippe Auclair and Nedum Onuoha. Produced by Joel Grove and our executive producer is Christian Bennett.",
+      title:
+        "Has Griezmann finally found his right position? - Football Daily podcast",
+      description:
+        "Max Rushden is joined by Barry Glendenning, Philippe Auclair and Nedum Onuoha as France complete the final line-up for the 2022 World CupRate, review, share on Apple Podcasts, Soundcloud, Audioboom, Mixcloud, Acast and Stitcher, and join the conversation on F…",
+      url: "https://www.theguardian.com/football/audio/2022/dec/15/antoine-griezmann-right-position-football-daily-podcast-world-cup-france-morocco",
+      urlToImage:
+        "https://i.guim.co.uk/img/media/a82b09eb420fc1df1c0d0df9b85b715b11692b81/1245_0_4223_2534/master/4223.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=264503c4ecf2ebeb9cc5700d8262d8ba",
+      publishedAt: "2022-12-15T00:20:00Z",
+      content:
+        "Rate, review, share on Apple Podcasts, Soundcloud, Audioboom, Mixcloud, Acast and Stitcher, and join the conversation on Facebook, Twitter and email.\r\nToday; Morocco were brilliant once again but ult… [+416 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "The Guardian",
+      },
+      author: "Felicity Cloake",
+      title:
+        "From gold-dusted salmon to gargantuan toffee crowns: we taste-test the best budget Christmas food",
+      description:
+        "Low-cost supermarkets have gone upmarket, selling fancy scallop gratins and passionfruit panna cottas at tempting prices. But are they any good?We live in a world where the main message of Christmas is “spend, spend, spend”, and where festivity has become syn…",
+      url: "https://www.theguardian.com/food/2022/dec/15/gold-salmon-fillets-sticky-toffee-crowns-taste-test-best-budget-christmas-food",
+      urlToImage:
+        "https://i.guim.co.uk/img/media/6124935f2ffc2a159fa394ae4e3219a0bc16efdd/0_153_5309_3186/master/5309.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=961671542f49df8dea2ccd8b037bd1bd",
+      publishedAt: "2022-12-15T06:00:15Z",
+      content:
+        "We live in a world where the main message of Christmas is spend, spend, spend, and where festivity has become synonymous with luxury but you shouldnt have to bankrupt yourself to have a good time. He… [+7810 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "MacRumors",
+      },
+      author: "Sami Fathi",
+      title:
+        "Samsung Mocks Apple for Lack of Foldable iPhone in New World Cup Themed Ad",
+      description:
+        "In a new World Cup themed ad, Samsung has poked fun at Apple's lack of a flippable iPhone while promoting its own Galaxy Z Flip4.\n\n\n\n\n\nIn the ad posted on one of Samsung's Weibo accounts, Galaxy Flip phones can be seen as fans in a soccer stadium, themed afte…",
+      url: "https://www.macrumors.com/2022/12/15/samsung-foldable-iphone-world-cup-ad/",
+      urlToImage:
+        "https://images.macrumors.com/t/rOCvVdF1z8CrmCqqILfS1MBnlBM=/1600x/article-new/2022/12/samsung-flip-world-cup.jpg",
+      publishedAt: "2022-12-15T15:00:12Z",
+      content:
+        "In a new World Cup themed ad, Samsung has poked fun at Apple's lack of a flippable iPhone while promoting its own Galaxy Z Flip4.\r\nIn the ad posted on one of Samsung's Weibo accounts, Galaxy Flip pho… [+682 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "MacRumors",
+      },
+      author: "Juli Clover",
+      title: "15.5-inch MacBook Air Expected to Launch in Spring 2023",
+      description:
+        "Apple is developing a 15.5-inch MacBook Air that could launch in the spring of 2023, according to display analyst Ross Young. In a tweet shared with super followers, Young said that production on panels designed for the ‌MacBook Air‌ will start in the first q…",
+      url: "https://www.macrumors.com/2022/12/15/15-inch-macbook-air-spring-2023/",
+      urlToImage:
+        "https://images.macrumors.com/t/3gFWKV7FCW1SGACoW4egzAhbP5g=/2500x/article-new/2022/06/M2-MacBook-Air-2022-Feature0000.jpg",
+      publishedAt: "2022-12-15T13:59:00Z",
+      content:
+        "Apple is developing a 15.5-inch MacBook Air that could launch in the spring of 2023, according to display analyst Ross Young. In a tweet shared with super followers, Young said that production on pan… [+924 chars]",
+    },
+    {
+      source: {
+        id: "business-insider",
+        name: "Business Insider",
+      },
+      author: "insider@insider.com (Paris Marx)",
+      title:
+        "Netflix ushered in a grand streaming revolution. Now it's just copying cable TV.",
+      description:
+        "We have dozens of streaming apps, hundreds of new TV shows, and thousands of movies at our fingertips. So why is there nothing to watch?",
+      url: "https://www.businessinsider.com/why-streaming-tv-got-boring-netflix-hulu-hbo-max-cable-2022-12",
+      urlToImage:
+        "https://i.insider.com/63977fbea3bebb0018b41b46?width=1200&format=jpeg",
+      publishedAt: "2022-12-15T12:03:00Z",
+      content:
+        "When Netflix took off, we were promised an entertainment revolution: Vast libraries of compelling content would be available with just a few clicks, all for a small monthly fee. But scrolling through… [+12079 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Entrepreneur",
+      },
+      author: null,
+      title:
+        "You Can't Return to The Office Without Defeating These Four Major Battles",
+      description:
+        "Think you're ready to return to a mostly or fully in-person workforce? Watch out and defeat these four major hurdles that will put your company's longevity to the ultimate test.",
+      url: "https://www.entrepreneur.com/leadership/you-cant-return-to-the-office-without-defeating-these-four/441087",
+      urlToImage:
+        "https://assets.entrepreneur.com/content/3x2/2000/1671028647-GettyImages-980443662.jpg",
+      publishedAt: "2022-12-15T01:00:00Z",
+      content:
+        "As increasing numbers of companies are requiring employees to return to the office for 3 to 5 days per week this fall, they're running into the buzzsaw of what one of my clients called the \"Four Hors… [+10860 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Design-milk.com",
+      },
+      author: "Kelly Beall",
+      title: "Sustainable Tech Brand Oakywood Unveils Its MagSafe Collection",
+      description:
+        "Oakywood's new MagSafe Collection provides more functional, high-quality charging and usage solutions for iPhone users.",
+      url: "https://design-milk.com/?p=498845",
+      urlToImage:
+        "https://design-milk.com/images/2022/12/Oakywood-MagSafe-Collection-Featured-Image.jpg",
+      publishedAt: "2022-12-15T14:00:27Z",
+      content:
+        "Off the heels of its rebrand, Oakywood unveils its MagSafe Collection, a group of products with designs targeted directly at Apples ecosystem designed by Magdalena Gembala, Head of Design at Oakywood… [+3781 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Xataka.com",
+      },
+      author: "Alberto de la Torre",
+      title:
+        "Tesla Model Y Performance, análisis: para lo (muy) bueno y lo malo, el iPhone SE del coche eléctrico",
+      description:
+        "Silencioso, efectivo y muy muy rápido. El Tesla Model Y es el sueño de quien ama el orden y odia lo inesperado. De quien ama el minimalismo y odia lo superfluo. De quien quiere prescindir de lo barroco, aunque lo obligue a asumir ciertas carencias materiales.…",
+      url: "https://www.xataka.com/movilidad/tesla-model-performance-analisis-review-caracteristicas-precio-especificaciones",
+      urlToImage: "https://i.blogs.es/d856a1/dscf2444-copia/840_560.jpg",
+      publishedAt: "2022-12-15T14:31:08Z",
+      content:
+        "Silencioso, efectivo y muy muy rápido. El Tesla Model Y es el sueño de quien ama el orden y odia lo inesperado. De quien ama el minimalismo y odia lo superfluo. De quien quiere prescindir de lo barro… [+19004 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Xataka.com",
+      },
+      author: "Javier Fernández",
+      title:
+        "Los experimentos sobre la semana de cuatro días se amontonan en todo el mundo. Y casi siempre son positivos",
+      description:
+        "Las dos amenazas del tradicional modelo de trabajo presencial de cinco días a la semana son el teletrabajo y la semana laboral de cuatro días. En el primer caso, el futuro del trabajo a distancia está en el aire tras la tendencia de grandes empresas tecnológi…",
+      url: "https://www.xataka.com/empresas-y-economia/experimentos-semana-cuatro-dias-se-amontonan-todo-mundo-casi-siempre-positivos",
+      urlToImage:
+        "https://i.blogs.es/996d8a/semana-laboral-4-dias-1/840_560.jpg",
+      publishedAt: "2022-12-15T11:01:03Z",
+      content:
+        "Las dos amenazas del tradicional modelo de trabajo presencial de cinco días a la semana son el teletrabajo y la semana laboral de cuatro días. En el primer caso, el futuro del trabajo a distancia est… [+3793 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Xataka.com",
+      },
+      author: "Manu García (Visnuh)",
+      title:
+        "Siete mejores ofertas de tecnología en los Super Tecnoprecios de El Corte Inglés para regalar esta Navidad",
+      description:
+        "Es jueves, y como cada jueves, El Corte Inglés renueva sus ofertas. Hoy en sus Super Tecnoprecios podemos encontrar muy buenos precios en smart TVs, auriculares, pantallas y altavoces inteligentes o cámaras fotográficas. Si aún no tienes pensados todos tus re…",
+      url: "https://www.xataka.com/seleccion/siete-mejores-ofertas-tecnologia-super-tecnoprecios-corte-ingles-para-regalar-esta-navidad",
+      urlToImage: "https://i.blogs.es/475376/el_corte_ingles/840_560.jpg",
+      publishedAt: "2022-12-15T11:23:27Z",
+      content:
+        "Es jueves, y como cada jueves, El Corte Inglés renueva sus ofertas. Hoy en sus Super Tecnoprecios podemos encontrar muy buenos precios en smart TVs, auriculares, pantallas y altavoces inteligentes o … [+5339 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Digital Trends",
+      },
+      author: "Alex Blake",
+      title: "A major change may be coming to the MacBook Air next year",
+      description:
+        "The MacBook Air is one of Apple’s most popular products and it could be in line for a big update in spring 2023, according to a highly reliable tech tipster.",
+      url: "https://www.digitaltrends.com/computing/apple-15-inch-macbook-air-spring-2023/",
+      urlToImage:
+        "https://www.digitaltrends.com/wp-content/uploads/2022/08/macbook-air-m2-1.jpg?resize=1200%2C630&p=1",
+      publishedAt: "2022-12-15T15:17:06Z",
+      content:
+        "Apple is planning to launch a 15.5-inch MacBook Air as soon as spring 2023 in a move that could expand the MacBook Air line and offer more options to potential buyers. Thats according to display indu… [+2168 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Libreboot.org",
+      },
+      author: "Leah Rowe",
+      title: "Libreboot 20221214 Released",
+      description: "Libreboot – Libreboot 20221214 released!",
+      url: "https://libreboot.org/news/libreboot20221214.html",
+      urlToImage: "https://av.vimuser.org/bootmenu.jpg",
+      publishedAt: "2022-12-15T06:29:09Z",
+      content:
+        "Return to index\r\nArticle published by: Leah Rowe\r\nDate of publication: 14 December 2022\r\nThe last Libreboot release, version 20220710, was released on 10 July in 2022. This new release, Libreboot 202… [+25262 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "heise online",
+      },
+      author: "Malte Kirchner",
+      title:
+        "iOS 16.3 Beta: Fido-Sicherheitsschlüssel als zweiter Faktor für die Apple-ID",
+      description:
+        "Apple hat die erste Beta von iOS 16.3 veröffentlicht. Künftig werden Hardware-Sicherheitsschlüssel als zweiter Faktor bei der Apple ID unterstützt.",
+      url: "https://www.heise.de/news/iOS-16-3-Beta-Fido-Sicherheitsschluessel-als-zweiter-Faktor-fuer-die-Apple-ID-7396386.html",
+      urlToImage:
+        "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/6/5/1/4/4/shutterstock_1748211680-53b964b9cf8dd079.jpg",
+      publishedAt: "2022-12-15T13:44:00Z",
+      content:
+        "Apple ermöglicht mit iOS 16.3, iPadOS 16.3 und macOS Ventura 13.2 erstmals die Nutzung physischer Sicherheitsschlüssel als zweiter Sicherheitsfaktor für die Apple ID. In der ersten Betaversion, die a… [+1649 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "heise online",
+      },
+      author: "Ben Schwan",
+      title: "Microsoft beerdigt Authenticator für Apple Watch",
+      description:
+        "Bereits im Januar soll das durchaus nützliche Werkzeug aus dem Watch App Store getilgt werden. Es gibt Alternativen.",
+      url: "https://www.heise.de/news/Microsoft-beerdigt-Authenticator-fuer-Apple-Watch-7393733.html",
+      urlToImage:
+        "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/6/3/8/3/4/auth-7a03f3280b505c20.jpg",
+      publishedAt: "2022-12-15T09:29:00Z",
+      content:
+        "Microsoft hat das Ende der nützlichen Apple-Watch-Version seiner Authenticator-App angekündigt. Wie Microsoft in einem Supportdokument schreibt, wird die Anwendung nur noch wenige Wochen unterstützt.… [+2400 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "heise online",
+      },
+      author: "Leo Becker",
+      title:
+        "heise-Angebot: Neues Webinar: Barrierefreie Apps für iPhone & Co.",
+      description:
+        "Das Webinar führt in die Möglichkeiten der APIs für barrierefreie Apps auf Apple-Plattfomen ein. Auch der gesetzliche Rahmen und die Kostenfrage sind Thema.",
+      url: "https://www.heise.de/news/Neues-Webinar-Barrierefreie-Apps-fuer-iPhone-Co-7394619.html",
+      urlToImage:
+        "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/6/4/2/0/1/Barrierefreie-Apps-Ticker-Header-16-9-51b261096097f9fd.jpg",
+      publishedAt: "2022-12-15T09:00:00Z",
+      content:
+        "Barrierefreiheit spielt bei der App-Entwicklung oft nur eine untergeordnete Rolle, das schließt letztlich ganze Kundengruppen aus. Im behördlichen Umfeld ist Barrierearmut mittlerweile sogar gesetzli… [+1509 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "heise online",
+      },
+      author: "Dr. Oliver Diedrich",
+      title: "Einfacher Teilen direkt von der Website: Neue API vom W3C",
+      description:
+        "Die W3C-Spezifikation ermöglicht das Teilen von Text, Dateien und URLs per JavaScript aus einer Webapp heraus. Einige Browser können das bereits.",
+      url: "https://www.heise.de/news/Einfacher-Teilen-direkt-von-der-Website-Neue-API-vom-W3C-7395882.html",
+      urlToImage:
+        "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/6/4/8/7/1/teilen-823c12b504ad7676.png",
+      publishedAt: "2022-12-15T10:39:00Z",
+      content:
+        "Android-Nutzer kennen das: Viele Apps bieten eine Teilen-Funktion, nach deren Auswahl ein Systemdialog die möglichen Empfänger andere Apps, aber auch Systemfunktionen wie Drucken oder ins Clipboard k… [+1384 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "9to5Mac",
+      },
+      author: "Chance Miller",
+      title:
+        "Redesigned Apple Maps experience expands to users in these five countries",
+      description:
+        "Apple is expanding the most advanced and latest version of Apple Maps to more countries. In a press release today, the company announced that the new Apple Maps experience is now available in the Netherlands, Belgium, Liechtenstein, Luxembourg, and Switzerlan…",
+      url: "https://9to5mac.com/2022/12/15/new-apple-maps-experience-expansion/",
+      urlToImage:
+        "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/12/maps.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      publishedAt: "2022-12-15T14:44:03Z",
+      content:
+        "Apple is expanding the most advanced and latest version of Apple Maps to more countries. In a press release today, the company announced that the new Apple Maps experience is now available in the Net… [+2176 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "9to5Mac",
+      },
+      author: "Ben Lovejoy",
+      title:
+        "Apple Store staff unionize in west London store with “unprecedented” redesign",
+      description:
+        "Apple store staff working in a newly-designed store in a London shopping mall have unionized. They say they are seeking a pay rise, pay transparency, improvements to shift work, and less focus on metrics when assessing their work.\nApple Store aficionado Micha…",
+      url: "https://9to5mac.com/2022/12/15/apple-store-staff/",
+      urlToImage:
+        "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/12/Apple-Store-staff-unionize.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      publishedAt: "2022-12-15T12:05:04Z",
+      content:
+        "Apple Store staff working in a newly designed store in a London shopping mall have unionized. They say they are seeking a pay raise, pay transparency, improvements to shift work, and less focus on me… [+3856 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "9to5Mac",
+      },
+      author: "Ben Lovejoy",
+      title: "Abandonment of Apple CSAM scanning plans attacked by regulator",
+      description:
+        "Apple CSAM scanning plans may have been abandoned, but that hasn’t ended the controversy. An Australian regulator has accused the Cupertino company of turning a blind eye to the sexual exploitation of children.\nShe said that both Apple and Microsoft fail to t…",
+      url: "https://9to5mac.com/2022/12/15/apple-csam-scanning-plans/",
+      urlToImage:
+        "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/12/Apple-CSAM-scanning-plans.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      publishedAt: "2022-12-15T12:52:05Z",
+      content:
+        "Apple CSAM scanning plans may have been abandoned, but that hasn’t ended the controversy. An Australian regulator has accused the Cupertino company of turning a blind eye to the sexual exploitation o… [+3534 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "9to5Mac",
+      },
+      author: "Chance Miller",
+      title:
+        "New MacBook Air with 15.5-inch display rumored for spring 2023 launch",
+      description:
+        "A handful of rumors over the last year have said that Apple is planning a new 15-inch MacBook Air to coexist alongside the current 13-inch model. Now, reliable analyst Ross Young says that the new 15-inch MacBook Air will begin panel production in the first q…",
+      url: "https://9to5mac.com/2022/12/15/15-inch-macbook-air-rumor-launch-date/",
+      urlToImage:
+        "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/12/M1-M2-MacBook-Air-side-by-side.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      publishedAt: "2022-12-15T14:00:46Z",
+      content:
+        "A handful of rumors over the last year have said that Apple is planning a new 15-inch MacBook Air to coexist alongside the current 13-inch model. Now, reliable analyst Ross Young says that the new 15… [+2252 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "9to5Mac",
+      },
+      author: "Michael Potuck",
+      title:
+        "Apple Card brings back $75 Daily Cash bonus for new referrals through February",
+      description:
+        "Apple is looking to entice new customers with its credit card this holiday season with two promotions. To start December, it launched 5% cash back for new cardholders through Christmas and the company is now also offering a $75 Daily Cash bonus when using a r…",
+      url: "https://9to5mac.com/2022/12/15/apple-card-75-dollar-referall-bonus/",
+      urlToImage:
+        "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/12/apple-card-promo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      publishedAt: "2022-12-15T15:03:22Z",
+      content:
+        "Apple is looking to entice new customers with its credit card this holiday season with two promotions. To start December, it launched 5% cash back for new cardholders through Christmas and the compan… [+1053 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "9to5Mac",
+      },
+      author: "Ben Lovejoy",
+      title:
+        "Emergency SOS via Satellite – What happens after the two years of free service? [Comment]",
+      description:
+        "Apple’s Emergency SOS via Satellite service got a lot of time in the keynote, with the company proudly announcing that the service is free for the first two years.\nWhat Apple hasn’t told us is what happens at the end of those two years. There’s one obvious an…",
+      url: "https://9to5mac.com/2022/12/15/emergency-sos-via-satellite/",
+      urlToImage:
+        "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/12/Emergency-SOS-via-Satellite.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      publishedAt: "2022-12-15T15:47:41Z",
+      content:
+        "Apple’s Emergency SOS via Satellite service got a lot of time in the keynote, with the company proudly announcing that the service is free for the first two years.\r\nWhat Applehasn’t told us is what h… [+4937 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "9to5Mac",
+      },
+      author: "Filipe Espósito",
+      title:
+        "Apple’s Find My and other iCloud services are currently down for some users",
+      description:
+        "Some of Apple’s services are currently down for some users around the world. Apple has confirmed the ongoing outage, which affects Find My, iCloud Calendar, iCloud Mail, the iCloud website, and even the Screen Time feature.\n more…\nThe post Apple’s Find My and…",
+      url: "https://9to5mac.com/2022/12/14/apples-find-my-and-other-icloud-services-are-currently-down-for-some-users/",
+      urlToImage:
+        "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/icloud-down.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      publishedAt: "2022-12-15T00:02:16Z",
+      content:
+        "Some of Apple’s services are currently down for some users around the world. Apple has confirmed the ongoing outage, which affects Find My, iCloud Calendar, iCloud Mail, the iCloud website, and even … [+1269 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "9to5Mac",
+      },
+      author: "Seth Kurkowski",
+      title:
+        "9to5Mac Daily: December 14, 2022 – Major changes on the way for the App Store",
+      description:
+        "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Tailscale: A fru…",
+      url: "https://9to5mac.com/2022/12/14/9to5mac-daily-december-14-2022-major-changes-on-the-way-for-the-app-store/",
+      urlToImage:
+        "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      publishedAt: "2022-12-15T01:18:28Z",
+      content:
+        "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apples Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overca… [+1082 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "9to5Mac",
+      },
+      author: "Filipe Espósito",
+      title: "Hackers release jailbreak tool compatible with iOS 15 and iOS 16",
+      description:
+        "Apple has been working hard to increase the security of its operating systems and devices, and this has been proven considering that hackers had a hard time creating a jailbreak tool for iOS 15. But those who are enthusiastic about modifying iOS can now celeb…",
+      url: "https://9to5mac.com/2022/12/14/hackers-release-jailbreak-tool-compatible-with-ios-15-and-ios-16/",
+      urlToImage:
+        "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/04/iphone-x-space-gray-rear.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      publishedAt: "2022-12-15T01:15:15Z",
+      content:
+        "Apple has been working hard to increase the security of its operating systems and devices, and this has been proven considering that hackers had a hard time creating a jailbreak tool for iOS 15. But … [+2329 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "9to5Mac",
+      },
+      author: "Michael Potuck",
+      title:
+        "Award-winning Pok Pok Playroom iOS app for kids gets big holiday update",
+      description:
+        "Wrapping up 2022 after lots of updates like a music Sequencer, Marble Machine, Space, and Halloween content, and more, Pok Pok Playroom for kids has received a major update for winter and the holiday season. New experiences in the Town, House, and Shops toys …",
+      url: "https://9to5mac.com/2022/12/15/pok-pok-playroom-winter-holiday-update/",
+      urlToImage:
+        "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/12/iPhone_Winter-update_Town.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      publishedAt: "2022-12-15T15:34:26Z",
+      content:
+        "Wrapping up 2022 after lots of updates like a music Sequencer, Marble Machine, Space, and Halloween content, and more, Pok Pok Playroom for kids has received a major update for winter and the holiday… [+1344 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "9to5Mac",
+      },
+      author: "Benjamin Mayo",
+      title:
+        "Pixelmator Photo adds new tools to enhance sharpness and shadow detail in your images, launches 50% off holiday sale",
+      description:
+        "The Pixelmator team today launched a new version of Pixelmator Photo, to help you make the most out of your photos taken this holiday season and beyond. The new tools help increase sharpness, recover details in shadows and highlights, and more. Pixelmator Pho…",
+      url: "https://9to5mac.com/2022/12/15/pixelmator-photo-new-features-holiday-scale/",
+      urlToImage:
+        "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/12/pixelmator-photo-features.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      publishedAt: "2022-12-15T15:30:00Z",
+      content:
+        "The Pixelmator team today launched a new version of Pixelmator Photo, to help you make the most out of your photos taken this holiday season and beyond. The new tools help increase sharpness, recover… [+1314 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Autoblog",
+      },
+      author: "TechCrunch",
+      title:
+        "Apple's Emergency SOS via satellite prompts rescue after car goes off a cliff north of L.A.",
+      description:
+        "Filed under:\n Government/Legal,Safety,Technology,Smartphone\n Continue reading Apple's Emergency SOS via satellite prompts rescue after car goes off a cliff north of L.A.\nApple's Emergency SOS via satellite prompts rescue after car goes off a cliff north of L.…",
+      url: "https://www.autoblog.com/2022/12/15/apple-iphone-emergency-sos-via-satellite-car-goes-off-cliff/",
+      urlToImage:
+        "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2022/12/15110120/Screen-Shot-2022-12-15-at-10.54.37-AM.png",
+      publishedAt: "2022-12-15T16:01:00Z",
+      content:
+        'Apple\'s new "Emergency SOS" service that lets off-grid iPhone users call for help via satellite has led to what may be its first successful rescue operation, certainly the first to be documented live… [+2181 chars]',
+    },
+    {
+      source: {
+        id: null,
+        name: "Autoblog",
+      },
+      author: "Bradley Iger",
+      title:
+        "2023 McLaren Artura Road Test: Hitting Vegas (and the track) in McLaren's hybrid supercar",
+      description:
+        "Filed under:\n McLaren,Coupe,Hybrid,Luxury,Performance,Supercars,Road Tests\n Continue reading 2023 McLaren Artura Road Test: Hitting Vegas (and the track) in McLaren's hybrid supercar\n2023 McLaren Artura Road Test: Hitting Vegas (and the track) in McLaren's hy…",
+      url: "https://www.autoblog.com/2022/12/15/mclaren-artura-road-test/",
+      urlToImage:
+        "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2022/12/14134449/McLaren-Artura-action-front-three-quarter-Paris.jpg",
+      publishedAt: "2022-12-15T11:00:00Z",
+      content:
+        "LAS VEGAS, Nevada As I carved my way down the winding tarmac that drapes the Valley of Fire state park while Motörhead battled with the Arturas new twin-turbocharged V6 for aural superiority, I must … [+7586 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "AppleInsider",
+      },
+      author: "news@appleinsider.com (Christine McKee)",
+      title:
+        "Flash deals: $739 Apple Watch Ultra, up to $550 off MacBook Pro, $59 Magic accessories, $219 AirPods Pro 2",
+      description:
+        "Prices have been slashed on Apple hardware, with the Apple Watch Ultra, Mac mini and AirPods Pro 2 all on sale — and many with free expedited shipping.Save up to $550 on Apple products.To activate the savings below, you must shop through the pricing links to …",
+      url: "https://appleinsider.com/articles/22/12/15/flash-deals-739-apple-watch-ultra-up-to-550-off-macbook-pro-59-magic-accessories-219-airpods-pro-2",
+      urlToImage:
+        "https://photos5.appleinsider.com/gallery/51971-103179-apple-products-sale-xl.jpg",
+      publishedAt: "2022-12-15T06:59:29Z",
+      content:
+        "Save up to $550 on Apple products.\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nPrices have been slashed on Apple hardware, with the Apple Watch Ultra,… [+2677 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "AppleInsider",
+      },
+      author: "news@appleinsider.com (Andrew Orr)",
+      title: "Apple Watch Ultra drove growth in China's wearables market",
+      description:
+        "Parts of China's market for wearables declined in quarter three of 2022, but smartwatches, including the Apple Watch Ultra, saw growth.Apple Watch UltraThe smartwatch category was the only wearables segment that saw growth in quarter three, an increase of 17%…",
+      url: "https://appleinsider.com/articles/22/12/15/apple-watch-ultra-drove-growth-in-chinas-wearables-market",
+      urlToImage:
+        "https://photos5.appleinsider.com/gallery/51974-103190-50254-99882-Apple-Watch-Ultra-face-xl-xl.jpg",
+      publishedAt: "2022-12-15T13:47:57Z",
+      content:
+        "Apple Watch Ultra\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nParts of China's market for wearables declined in quarter three of 2022, but smartwatche… [+1650 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "AppleInsider",
+      },
+      author: "news@appleinsider.com (Wesley Hilliard)",
+      title: "Apple slammed for not doing enough to prevent CSAM distribution",
+      description:
+        "Apple and Microsoft have provided details of their methods for detecting or preventing child sexual abuse material distribution, and an Australian regulator has found their efforts lacking.iMessage can warn minors about nudity in photosThe Australian e-Safety…",
+      url: "https://appleinsider.com/articles/22/12/15/apple-slammed-for-not-doing-enough-to-prevent-csam-distribution",
+      urlToImage:
+        "https://photos5.appleinsider.com/gallery/51972-103187-detect-xl.jpg",
+      publishedAt: "2022-12-15T12:29:19Z",
+      content:
+        "iMessage can warn minors about nudity in photos\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nApple and Microsoft have provided details of their methods… [+1968 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "AppleInsider",
+      },
+      author: "news@appleinsider.com (Wesley Hilliard)",
+      title: "London Apple Store at White City unionizing with UTAW",
+      description:
+        "The White City, London Apple Store location is signing up with the United Tech & Allied Workers Union to seek improved employee benefits, better training, and more pay.United Tech & Allied Workers Union at AppleApple Stores around the world have begun unioniz…",
+      url: "https://appleinsider.com/articles/22/12/15/london-apple-store-at-white-city-unionizing-with-utaw",
+      urlToImage:
+        "https://photos5.appleinsider.com/gallery/51973-103188-UTAW-xl.jpg",
+      publishedAt: "2022-12-15T12:52:10Z",
+      content:
+        "United Tech &amp; Allied Workers Union at Apple\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nThe White City, London Apple Store location is signing up … [+1079 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "AppleInsider",
+      },
+      author: "news@appleinsider.com (Andrew Orr)",
+      title: "Apple Maps redesign expands to Belgium and four other countries",
+      description:
+        "Apple has expanded its redesign of Apple Maps to five more countries, including Belgium, Liechtenstein, Luxembourg, the Netherlands, and Switzerland.Apple MapsUsers can expect to see faster and more accurate navigation, and seeing buildings, parks, airports a…",
+      url: "https://appleinsider.com/articles/22/12/15/apple-maps-redesign-expands-to-belgium-and-four-other-countries",
+      urlToImage:
+        "https://photos5.appleinsider.com/gallery/51977-103194-apple-maps-xl.jpg",
+      publishedAt: "2022-12-15T15:34:39Z",
+      content:
+        "Apple Maps\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nApple has expanded its redesign of Apple Maps to five more countries, including Belgium, Liecht… [+1339 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "AppleInsider",
+      },
+      author: "news@appleinsider.com (Wesley Hilliard)",
+      title: "Tim Cook hits Tokyo and tours more of Japan during PR trip",
+      description:
+        "Apple CEO Tim Cook and SVP of marketing Greg Joswiak have been busy touring Japan with stops at game developer Konami, various developers, and a videographer.Image credit: Yusuke OkawaCook and Joz arrived in Japan on Monday to begin a week-long tour of variou…",
+      url: "https://appleinsider.com/articles/22/12/15/tim-cook-hits-tokyo-and-tours-more-of-japan-during-pr-trip",
+      urlToImage:
+        "https://photos5.appleinsider.com/gallery/51975-103189-Cook-xl.jpg",
+      publishedAt: "2022-12-15T13:43:22Z",
+      content:
+        "Image credit: Yusuke Okawa\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nApple CEO Tim Cook and SVP of marketing Greg Joswiak have been busy touring Jap… [+1304 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "AppleInsider",
+      },
+      author: "news@appleinsider.com (Wesley Hilliard)",
+      title: "Future MacBook keyboard could have customizable aluminum keys",
+      description:
+        "Apple is working on how to make a perforated aluminum keyboard chassis with keycaps that incorporate an array of LEDs that can change what is displayed on each key.New Apple Keyboard could be made from aluminumApple files all sorts of patents in order to cove…",
+      url: "https://appleinsider.com/articles/22/12/15/future-macbook-keyboard-could-have-customizable-aluminum-keys",
+      urlToImage:
+        "https://photos5.appleinsider.com/gallery/51978-103198-keyboard-xl.jpg",
+      publishedAt: "2022-12-15T15:48:01Z",
+      content:
+        "New Apple Keyboard could be made from aluminum\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nApple is working on how to make a perforated aluminum keybo… [+2380 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "AppleInsider",
+      },
+      author: "news@appleinsider.com (Michael Stroup)",
+      title:
+        "Beats Studio Buds long-term review: An excellent AirPods alternative",
+      description:
+        "We've been using Beats Studio Buds for a long time alongside AirPods and AirPods Pro. Where they fit in the lineup isn't a simple question.Beats Studio Buds in their case with the lid open. Beats Studio Buds weren't a surprise when they launched. They had bee…",
+      url: "https://appleinsider.com/articles/22/12/15/beats-studio-buds-long-term-review-an-excellent-airpods-alternative",
+      urlToImage:
+        "https://photos5.appleinsider.com/gallery/51933-103018-Studio-Buds-Open-xl.jpg",
+      publishedAt: "2022-12-15T13:35:09Z",
+      content:
+        "Beats Studio Buds in their case with the lid open. \r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nWe've been using Beats Studio Buds for a long time alo… [+6219 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "AppleInsider",
+      },
+      author: "news@appleinsider.com (Wesley Hilliard)",
+      title: "New 15.5-inch MacBook Air rumored to arrive in early 2023",
+      description:
+        "Rumors continue to suggest that a new MacBook Air with a 15-inch display exists, and it is coming in the spring of 2023.A larger MacBook Air could be on the wayThe 15-inch MacBook Air has been rumored since early 2021, but little has been shared about the pot…",
+      url: "https://appleinsider.com/articles/22/12/15/new-155-inch-macbook-air-rumored-to-arrive-in-early-2023",
+      urlToImage:
+        "https://photos5.appleinsider.com/gallery/51976-103193-15MBA-compare-2-xl.jpg",
+      publishedAt: "2022-12-15T14:34:01Z",
+      content:
+        "A larger MacBook Air could be on the way\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nRumors continue to suggest that a new MacBook Air with a 15-inch … [+1002 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "AppleInsider",
+      },
+      author: "news@appleinsider.com (Jess Pingrey)",
+      title:
+        "Daily Deals Dec. 14: $150 off Mac mini, 52% off Samsung Galaxy Smartwatch 4, 42% off AirTag Keychain Holders & more",
+      description:
+        "Thursday's top deals include an HP 27h Full HD Monitor for $135.99, Sony 65-inch 4K Ultra HD TV for 30% off, Microsoft Surface Docking Station for 43% off and more.Every day, the AppleInsider team looks at online retailers to discover discounts and deals on t…",
+      url: "https://appleinsider.com/articles/22/12/15/daily-deals-dec-14-150-off-mac-mini-52-off-samsung-galaxy-smartwatch-4-42-off-airtag-keychain-holders-more",
+      urlToImage:
+        "https://photos5.appleinsider.com/gallery/51966-103175-dec-15-1-xl.jpg",
+      publishedAt: "2022-12-15T16:04:34Z",
+      content:
+        "AppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nThursday's top deals include an HP 27h Full HD Monitor for $135.99, Sony 65-inch 4K Ultra HD TV for 30% off… [+3438 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "AppleInsider",
+      },
+      author: "news@appleinsider.com (Thomas Sibilly)",
+      title:
+        "WalleyGrip2 Review: MagSafe smart wallet with promise for the future",
+      description:
+        "Infinacore's WalleyGrip2 is an interesting take on a MagSafe smart wallet experience for an iPhone, but today, the sum of its parts don't make a better product than the pieces individually.Upgrading from the original WalleyGrip, the WalleyGrip2 maintains the …",
+      url: "https://appleinsider.com/articles/22/12/15/walleygrip2-review-magsafe-smart-wallet-with-promise-for-the-future",
+      urlToImage:
+        "https://photos5.appleinsider.com/gallery/51919-102991-IMG_4577-xl.jpg",
+      publishedAt: "2022-12-15T14:29:10Z",
+      content:
+        "AppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nInfinacore's WalleyGrip2 is an interesting take on a MagSafe smart wallet experience for an iPhone, but tod… [+3285 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Elespanol.com",
+      },
+      author: "Adrián Raya",
+      title:
+        "El futuro de la casa inteligente está aquí: Google actualiza Android y Nest con el nuevo Matter",
+      description:
+        "Google ha anunciado los primeros dispositivos de su plataforma del Internet de las Cosas que ha dado el salto a Matter, el nuevo estándar que seguirá toda la industria.",
+      url: "https://www.elespanol.com/elandroidelibre/noticias-y-novedades/20221215/futuro-inteligente-google-actualiza-android-nest-matter/726177627_0.html",
+      urlToImage:
+        "https://s1.eestatic.com/2021/05/04/elandroidelibre/578702830_229517522_600x315.jpg",
+      publishedAt: "2022-12-15T15:32:40Z",
+      content:
+        "Estamos ante el momento más importante para el futuro del hogar inteligente. El lanzamiento de Matter ha iniciado una ola que se extenderá por todo el sector, con el objetivo de que podamos usar cual… [+2964 chars]",
+    },
+
+    {
+      source: {
+        id: null,
+        name: "Yanko Design",
+      },
+      author: "Srishti Mitra",
+      title: "Top 10 sustainable designs for the inner environmentalist in you",
+      description:
+        "Top 10 sustainable designs for the inner environmentalist in youOur unhealthy practices and way of living are truly harmful to the environment and have been slowly leading to its deterioration. And the world has...",
+      url: "https://www.yankodesign.com/2022/12/15/top-10-sustainable-designs-for-the-inner-environmentalist-in-you/",
+      urlToImage:
+        "https://www.yankodesign.com/images/design_news/2022/12/sustainable-designs/top_10_sustainable_designs_coffee_cup_yanko_design_hero.jpeg",
+      publishedAt: "2022-12-15T12:40:31Z",
+      content:
+        "Our unhealthy practices and way of living are truly harmful to the environment and have been slowly leading to its deterioration. And the world has been changing (for the worse) because of this. Henc… [+9643 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Yanko Design",
+      },
+      author: "Vincent Nguyen",
+      title:
+        "These iPad Pro accessories give it superpowers like wireless charging and iMac-style docking",
+      description:
+        "These iPad Pro accessories give it superpowers like wireless charging and iMac-style dockingThe iPad Pro is a versatile tablet. PITAKA’s accessories help it unleash its true potential. Earlier this year, PITAKA held its Ecosystems virtual event where...",
+      url: "https://www.yankodesign.com/2022/12/14/these-ipad-pro-accessories-give-it-superpowers-like-wireless-charging-and-imac-style-docking/",
+      urlToImage:
+        "https://www.yankodesign.com/images/design_news/2022/12/boost_your_iPad_productivity_with_PitaFlow_hero.jpg",
+      publishedAt: "2022-12-15T02:44:31Z",
+      content:
+        "The iPad Pro is a versatile tablet. PITAKAs accessories help it unleash its true potential.\r\nEarlier this year, PITAKA held its Ecosystems virtual event where the company announced a series of access… [+4085 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Journal du geek",
+      },
+      author: "Thomas Estimbre",
+      title:
+        "Ce navigateur promet d’améliorer la qualité des vidéos en basse définition",
+      description:
+        "Avec le mode Lucide, le navigateur Opera espère encore une fois se démarquer. Il intègre désormais une fonction d’amélioration de la vidéo de l’image. Est-elle vraiment efficace ? On a testé.\nCe navigateur promet d’améliorer la qualité des vidéos en basse déf…",
+      url: "https://www.journaldugeek.com/2022/12/15/ce-navigateur-promet-dameliorer-la-qualite-des-videos-en-basse-definition/",
+      urlToImage:
+        "https://www.journaldugeek.com/content/uploads/2022/12/opera-lucide-mode.jpg",
+      publishedAt: "2022-12-15T09:00:00Z",
+      content:
+        "Avec le mode Lucide, le navigateur Opera espère encore une fois se démarquer. Il intègre désormais une fonction damélioration de la vidéo de limage. Est-elle vraiment efficace ? On a testé.Loin des g… [+3012 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Journal du geek",
+      },
+      author: "Amandine Jonniaux",
+      title:
+        "Harley Quinn, Star Wars et Black Widow : voici les tendance PornHub de 2022",
+      description:
+        "Comme chaque année, le site pornographique PornHub a dévoilé les tendances de l'année écoulée. Et la pop culture y tient une bonne place. \nHarley Quinn, Star Wars et Black Widow : voici les tendance PornHub de 2022",
+      url: "https://www.journaldugeek.com/2022/12/15/harley-quinn-star-wars-et-black-widow-voici-les-tendance-pornhub-de-2022/",
+      urlToImage:
+        "https://www.journaldugeek.com/content/uploads/2022/12/template-jdg-2022-12-15t090100-408.jpg",
+      publishedAt: "2022-12-15T11:30:11Z",
+      content:
+        "Comme chaque année, le site pornographique PornHub a dévoilé les tendances de l'année écoulée. Et la pop culture y tient une bonne place.Qui dit fin de l’année dit rétrospective. Après YouTube, Apple… [+2958 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Applesfera.com",
+      },
+      author: "David Bernal Raspall",
+      title:
+        "¿Planeamos comprar un producto de Apple en Navidad? Esto es todo lo que debemos saber",
+      description:
+        "¿Cuántos lectores de Applesfera tenemos un producto de Apple en la lista de compras de Navidad? Seguramente muchos, y no somos los únicos, pues ya sea un pequeño accesorio o un nuevo Mac, los dispositivos de Apple son un regalo habitual durante estas fiestas.…",
+      url: "https://www.applesfera.com/apple-1/planeamos-comprar-producto-apple-navidad-esto-todo-que-debemos-saber",
+      urlToImage: "https://i.blogs.es/83d4d2/hero/840_560.jpeg",
+      publishedAt: "2022-12-15T09:18:03Z",
+      content:
+        "¿Cuántos lectores de Applesfera tenemos un producto de Apple en la lista de compras de Navidad? Seguramente muchos, y no somos los únicos, pues ya sea un pequeño accesorio o un nuevo Mac, los disposi… [+3811 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Applesfera.com",
+      },
+      author: "David Bernal Raspall",
+      title:
+        "Alquilar las herramientas de Apple para reparar el iPhone cuesta 60, pero prepara otros 1.250 euros",
+      description:
+        "Hace algo más de una semana Apple nos ofreció otra forma de reparar nuestros iPhone: lanzó el programa de autoreparaciones en varios países de Europa, incluida España. Un programa de autoreparaciones que viene acompañado de la posibilidad de alquilar las herr…",
+      url: "https://www.applesfera.com/servicios-apple/alquilar-herramientas-apple-para-reparar-iphone-cuesta-60-prepara-otros-1-250-euros",
+      urlToImage: "https://i.blogs.es/caa5ec/hero/840_560.jpeg",
+      publishedAt: "2022-12-15T14:47:09Z",
+      content:
+        "Hace algo más de una semana Apple nos ofreció otra forma de reparar nuestros iPhone: lanzó el programa de autoreparaciones en varios países de Europa, incluida España. Un programa de autoreparaciones… [+2205 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Applesfera.com",
+      },
+      author: "Miguel López",
+      title:
+        "Hemos utilizado de varias formas Freeform, la gran novedad de iOS 16.2, y nos ha encantado",
+      description:
+        "La llegada de iOS 16.2 ha traído muchas novedades, y entre ellas estaba la versión estable de la esperada nueva aplicación Freeform de Apple. Con ella, la compañía busca que nos quedemos en su propio ecosistema para tener un lienzo en el que plasmar ideas de …",
+      url: "https://www.applesfera.com/aplicaciones-ios-1/hemos-utilizado-varias-formas-freeform-gran-novedad-ios-16-2-nos-ha-encantado",
+      urlToImage:
+        "https://i.blogs.es/ae8604/captura-de-pantalla-2022-12-15-a-las-12.46.45/840_560.jpeg",
+      publishedAt: "2022-12-15T11:48:58Z",
+      content:
+        "La llegada de iOS 16.2 ha traído muchas novedades, y entre ellas estaba la versión estable de la esperada nueva aplicación Freeform de Apple. Con ella, la compañía busca que nos quedemos en su propio… [+2928 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "MakeUseOf",
+      },
+      author: "Aryan Surendranath",
+      title: "Why the FBI Isn't Happy About Apple's iCloud Encryption",
+      description:
+        "End-to-end encryption for Apple's iCloud service is a win for its loyal users but not so much for the FBI. Let's discuss all about it.",
+      url: "https://www.makeuseof.com/why-fbi-isnt-happy-about-apple-encryption/",
+      urlToImage:
+        "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/apple-store-in-the-united-states.jpg",
+      publishedAt: "2022-12-15T03:51:06Z",
+      content:
+        "In this day and age, protecting user data is paramount, primarily because cloud storage servers help keep most of it off our devices. End-to-end encryption and its security benefits have often been p… [+3746 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Theregister.com",
+      },
+      author: "Liam Proven",
+      title: "If GNU please: Rust support merged for the forthcoming GCC 13",
+      description:
+        "But don't get too excited. It's as preliminary as the kernel support\nPreliminary support for compiling the Rust language has been merged into the codebase for GCC 13, which will be the next version of the GNU compiler collection.…",
+      url: "https://www.theregister.com/2022/12/15/gcc_13_rust_support_merged/",
+      urlToImage:
+        "https://regmedia.co.uk/2022/09/23/shutterstock_rust_ship.jpg",
+      publishedAt: "2022-12-15T10:30:08Z",
+      content:
+        "Preliminary support for compiling the Rust language has been merged into the codebase for GCC 13, which will be the next version of the GNU compiler collection.\r\nThe Reg's sister site DevClass report… [+4303 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Presse-citron",
+      },
+      author: "Romain Vitt",
+      title:
+        "Votre permis de conduire bientôt disponible sur n’importe quel smartphone ? Pas si vite",
+      description:
+        "Après Apple, au tour de Google de développer une solution permettant de stocker le permis de conduire en version numérique dans votre smartphone. Pourra-t-on bientôt en profiter en France ? Pas de sitôt.",
+      url: "https://www.presse-citron.net/votre-permis-de-conduire-bientot-disponible-sur-nimporte-quel-smartphone-pas-si-vite/",
+      urlToImage:
+        "https://www.presse-citron.net/app/uploads/2021/06/Permis-conduire.jpg",
+      publishedAt: "2022-12-15T09:00:23Z",
+      content:
+        "Et si votre permis de conduire était toujours à portée de main, dans votre smartphone ? Si lidée semble pratique elle met beaucoup de temps à se mettre en place. Aux Etats-Unis, Apple propose déjà de… [+2564 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Presse-citron",
+      },
+      author: "Setra",
+      title: "Le jeu mobile met fin à 10 ans de croissance",
+      description:
+        "Est-ce la fin d’une époque ? En 2022, les revenus des jeux vidéo mobiles devraient baisser.",
+      url: "https://www.presse-citron.net/le-jeu-mobile-met-fin-a-10-ans-de-croissance/",
+      urlToImage:
+        "https://www.presse-citron.net/app/uploads/2022/08/test-oppo-reno8-menton.jpg",
+      publishedAt: "2022-12-15T14:00:06Z",
+      content:
+        "Il y a une dizaine d’années, lessor des smartphones a entraîné mécaniquement une explosion des revenus des développeurs de jeux mobiles. Et jusquà présent, le mobile gaming est toujours considéré com… [+2838 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Presse-citron",
+      },
+      author: "Presse-citron",
+      title:
+        "Avant Noël, cette Livebox avec la fibre Orange est à prix dingue de -50%",
+      description:
+        "À l'approche des fêtes de Noël, profitez de cette offre choc sur la fibre d'Orange qui voit son prix chuter de moitié.",
+      url: "https://www.presse-citron.net/avant-noel-cette-livebox-avec-la-fibre-orange-est-a-prix-dingue-de-50/",
+      urlToImage:
+        "https://www.presse-citron.net/app/uploads/2022/08/livebox-orange-sosh.jpg",
+      publishedAt: "2022-12-15T11:10:28Z",
+      content:
+        "À l’approche des fêtes de fin d’année, les bonnes affaires ne concernent pas seulement les objets physiques. En plus des nombreuses réductions sur les smartphones, les consoles de jeux, les objets co… [+6114 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Ritholtz.com",
+      },
+      author: "Barry Ritholtz",
+      title: "10 Thursday AM Reads",
+      description:
+        "My morning train WFH reads: • Why You Should Enable Apple’s New Security Feature in iOS 16.2 Right Now: Apple just rolled out iOS 16.2, a software update that includes a key new feature called Advanced Data Protection for iCloud. That means you can finally en…",
+      url: "https://ritholtz.com/2022/12/10-thursday-am-reads-414/",
+      urlToImage: "https://ritholtz.com/wp-content/uploads/2022/12/FFTR.png",
+      publishedAt: "2022-12-15T11:55:05Z",
+      content:
+        "Why You Should Enable Apples New Security Feature in iOS 16.2 Right Now: Apple just rolled out iOS 16.2, a software update that includes a key new feature called Advanced Data Protection for iCloud. … [+2485 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Dpreview.com",
+      },
+      author: "Gannon Burgett",
+      title:
+        "Tamron pushes firmware update for 3 of its Sony E-mount zoom lenses, bringing AF tracking performance and more",
+      description:
+        "<table>\n\n<tr>\n<td></td>\n</tr>\n<tr>\n<td>The 50-400mm F/4.5-6.3 Di III VC VXD (Model A067) zoom lens.</td>\n</tr>\n\r\n\n</table>\nTamron has announced a trio of firmware updates for three of its Sony E-mount zoom lenses, bringing improved AF tracking for two of the …",
+      url: "https://www.dpreview.com/news/2394791046/tamron-updates-three-sony-e-mount-zoom-lenses-bringing-af-tracking-performance-and-more",
+      urlToImage:
+        "https://1.img-dpreview.com/files/p/E~TS940x788~articles/2394791046/Tamron_FW_Update_2.jpeg",
+      publishedAt: "2022-12-15T14:35:00Z",
+      content:
+        "Tamron's 50–400mm F4.5–6.3 Di III VC VXD (Model A067), 150–500mm F5–6.7 Di III VC VXD (Model A057) and 20-40mm F2.8 Di III VXD (Model A062) have all received firmware updates.\r\nPhotographers Rhiannon… [+5365 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Dpreview.com",
+      },
+      author: "Richard Butler",
+      title: "One Thing: How a prime lens changed the way I see the world",
+      description:
+        "<table>\n\n<tr>\n<td></td>\n</tr>\n<tr>\n<td>You may be skeptical, but I like shooting with a prime lens so much that my personal camera is built around one. Photo: Richard Butler</td>\n</tr>\n\r\n\n</table>\nI bought my first DSLR just a year after buying my very first …",
+      url: "https://www.dpreview.com/articles/0787294588/one-thing-how-a-prime-lens-changed-the-way-i-see-the-world",
+      urlToImage:
+        "https://4.img-dpreview.com/files/p/E~TS940x788~articles/0787294588/DSCF1711.acr.jpeg",
+      publishedAt: "2022-12-15T15:00:00Z",
+      content:
+        "A prime lens can sound outdated and restrictive in an era where zooms are often excellent. But this restriction can also encourage creative thinking.\r\nTamron's 50–400mm F4.5–6.3 Di III VC VXD (Model … [+5321 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Mental Floss",
+      },
+      author: null,
+      title: "20 Gifts We’re Giving During the 2022 Holiday Season",
+      description:
+        "Here's what our friends and family are getting this Christmas, from natural history sticker books to a tubs of gourmet salt flakes.",
+      url: "https://www.mentalfloss.com/posts/gifts-mental-floss-team-is-giving-2022",
+      urlToImage:
+        "https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/mentalfloss/01gk59eafn0ctjek7msg.jpg",
+      publishedAt: "2022-12-15T13:00:01Z",
+      content:
+        "Every holiday season, the Mental Floss team works hard to find the best present for each person on your listbe it for a baker, a climber, a co-worker, or even a Dolly Parton super fan. All that retai… [+7872 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Xataka Android",
+      },
+      author: "Pepu Ricca",
+      title:
+        "Crea música como un pro: las mejores alternativas a GarageBand en Android",
+      description:
+        "GarageBand es una aplicación de Apple que es utilizada para crear música sin complicaciones. Cuenta con versiones en los sistemas operativos de la manzana como iOS, iPadOS y macOS, pero no se encuentra disponible para Android.\n<!-- BREAK 1 -->\nMuchos usuarios…",
+      url: "https://www.xatakandroid.com/aplicaciones-android/crea-musica-como-pro-mejores-alternativas-a-garageband-android",
+      urlToImage: "https://i.blogs.es/0da8c9/crear-musica/840_560.jpg",
+      publishedAt: "2022-12-15T13:01:06Z",
+      content:
+        "GarageBand es una aplicación de Apple que es utilizada para crear música sin complicaciones. Cuenta con versiones en los sistemas operativos de la manzana como iOS, iPadOS y macOS, pero no se encuent… [+4843 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Android Authority",
+      },
+      author: "Hadlee Simons",
+      title: "Daily Authority: ️ Satellite SOS shines again",
+      description:
+        "Apple's satellite connectivity feature on iPhones saves the day again, Google reveals its top Chrome extensions, and more in today's edition.",
+      url: "https://www.androidauthority.com/daily-authority-december-15-2022-3251489/",
+      urlToImage:
+        "https://www.androidauthority.com/wp-content/uploads/2022/10/Apple-iPhone-14-Pro-Max-purple-back.jpg",
+      publishedAt: "2022-12-15T07:52:21Z",
+      content:
+        "Good morning! We switched from a bowl for our cats food to a plate, and now a substantial amount of food ends up on the floor. I foresee a switch back to the bowl really soon. In any event, todays Da… [+4095 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Android Authority",
+      },
+      author: "Andy Walker",
+      title: "What is the Oura Ring? Here’s everything you need to know",
+      description:
+        "Are you considering buying a smart ring instead of a smartwatch for fitness tracking? Here's everything you need to know about the Oura Ring.",
+      url: "https://www.androidauthority.com/oura-ring-3250439/",
+      urlToImage:
+        "https://www.androidauthority.com/wp-content/uploads/2018/12/Oura-Ring-Comparison-2.jpg",
+      publishedAt: "2022-12-15T05:00:12Z",
+      content:
+        "There are scant alternatives for those who dont want a fitness tracker or smartwatch to keep tabs on their health. Screenless trackers have bit the dust, while health-tracking earbuds are only useful… [+8337 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Presse-citron",
+      },
+      author: "RPB",
+      title: "Quelle montre connectée acheter en 2021 ? Comparatif complet",
+      description:
+        "Lisez ce comparatif complet pour trouver la montre connectée qui correspond le mieux à vos besoins en 2021.",
+      url: "https://www.presse-citron.net/meilleure-montre-connectee-comparatif/",
+      urlToImage:
+        "https://www.presse-citron.net/app/uploads/2021/11/meilleure-montre-connectee.jpg",
+      publishedAt: "2022-12-15T06:30:04Z",
+      content:
+        "Les montres connectées sont des weareables dotés d’un écran tactile. Ces montres peuvent, entre autres, contrôler votre smartphone à distance. Vous pouvez ainsi utiliser votre montre pour contrôler l… [+8490 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Presse-citron",
+      },
+      author: "Stéphane Ficca",
+      title: "Cyberpunk, Elden Ring, GTA V : ils débarquent sur les Tesla !",
+      description:
+        "La dernière mise à jour Tesla permet à certains véhicules de profiter d'Apple Music, de Zoom... et même de Steam.",
+      url: "https://www.presse-citron.net/?p=530201",
+      urlToImage:
+        "https://www.presse-citron.net/app/uploads/2022/12/Tesla-Steam.jpg",
+      publishedAt: "2022-12-15T06:30:03Z",
+      content:
+        "En toute fin d’année dernière, Elon Musk était fier d’annoncer l’arrivée d’un certain Sonic the Hedgehog à bord des Tesla. En effet, l’indémodable mascotte de SEGA est de la partie en ce qui concerne… [+2347 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Android Authority",
+      },
+      author: "Ryan McNeal",
+      title:
+        "Google enables Matter on Google, Nest, and Android products you already own",
+      description:
+        "Google has announced that it is starting to enable Matter on its products to make it easier to customize your smart home.",
+      url: "https://www.androidauthority.com/google-nest-matter-3251197/",
+      urlToImage:
+        "https://www.androidauthority.com/wp-content/uploads/2020/09/OnePlus-Oxygen-OS-11-Android-11-smarthome-controls.jpg",
+      publishedAt: "2022-12-15T11:00:09Z",
+      content:
+        "<ul><li>Google has announced that it is enabling Matter on a variety of Google products.</li><li>The new standard will make it easier to customize your smart home with other brands.</li><li>Google pl… [+2424 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "BGR",
+      },
+      author: "José Adorno",
+      title:
+        "iOS 16.3 beta teaches how to use Handoff feature from iPhone to HomePod",
+      description:
+        "While Apple just released iOS 16.2 to all users, the company is already testing iOS 16.3. The first beta of this upcoming software update doesn’t …\nThe post iOS 16.3 beta teaches how to use Handoff feature from iPhone to HomePod appeared first on BGR.",
+      url: "https://bgr.com/tech/ios-16-3-beta-teaches-how-to-use-handoff-feature-from-iphone-to-homepod/",
+      urlToImage:
+        "https://bgr.com/wp-content/uploads/2021/11/apple-homepod-mini-3.jpg?quality=82&strip=all",
+      publishedAt: "2022-12-15T12:12:15Z",
+      content:
+        "While Apple just released iOS 16.2 to all users, the company is already testing iOS 16.3. The first beta of this upcoming software update doesn’t bring many features for now, as developers have start… [+1601 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "BGR",
+      },
+      author: "Chris Hachey",
+      title:
+        "Today’s deals: Sony TV and soundbar bundles, digital picture frames, $79 Fire TVs, more",
+      description:
+        "10 days until Christmas! You know what that means. It’s time to shop! Assuming you’re one of those last-minute types of gifting people, we’re here …\nThe post Today’s deals: Sony TV and soundbar bundles, digital picture frames, $79 Fire TVs, more appeared firs…",
+      url: "https://bgr.com/deals/todays-deals-sony-tv-and-soundbar-bundles-digital-picture-frames-79-fire-tvs-more/",
+      urlToImage:
+        "https://bgr.com/wp-content/uploads/2021/12/bgr-deals-of-the-day-thursday.jpg?quality=82&strip=all",
+      publishedAt: "2022-12-15T15:25:00Z",
+      content:
+        "If you purchase an independently reviewed product or service through a link on our website, we may receive an affiliate commission. Learn more.\r\n10 days until Christmas! You know what that means. It’… [+5218 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Espinof.com",
+      },
+      author: "Albertini",
+      title:
+        '"Los que hacen series no tienen ni puta idea de lo que pasará mañana": el creador de una de las mejores obras de ciencia ficción reciente desvela su plan loco por si desaparece de HBO Max',
+      description:
+        "Con los recientes movimientos en el streaming, en especial los de HBO Max y sus planes de eliminar de su catálogo algunas series del calado de 'Westworld', algunos de los creadores y productores están viéndole las orejas al lobo y ya están planeando qué hacer…",
+      url: "https://www.espinof.com/directores-y-guionistas/que-hacen-series-no-tienen-puta-idea-que-pasara-manana-creador-mejores-obras-ciencia-ficcion-reciente-desvela-su-plan-loco-desaparece-hbo-max",
+      urlToImage:
+        "https://i.blogs.es/506d04/station-eleven-mackenzie-davis-1635951534/840_560.jpeg",
+      publishedAt: "2022-12-15T08:31:04Z",
+      content:
+        "Con los recientes movimientos en el streaming, en especial los de HBO Max y sus planes de eliminar de su catálogo algunas series del calado de 'Westworld', algunos de los creadores y productores está… [+1854 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "iMore",
+      },
+      author: "heyimjoew@gmail.com (Joe Wituschek)",
+      title: "Apple's terrible referral program for Apple Card is back",
+      description:
+        "Apple has launched a new referral program for Apple Card where new cardholders can earn $75 in Daily Cash.",
+      url: "https://www.imore.com/apple/apples-terrible-referral-program-for-apple-card-is-back",
+      urlToImage:
+        "https://cdn.mos.cms.futurecdn.net/8ueWWrbFC4pkz9JyoA5cVC-1200-80.jpg",
+      publishedAt: "2022-12-15T01:16:43Z",
+      content:
+        "Apple has launched another strange referral program for Apple Card.\r\nIn a new webpage on the Apple Card website, Apple announced that it is launching a new referral program for cardholders. The new r… [+1834 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "iMore",
+      },
+      author: "Stephen Warwick",
+      title:
+        "Apple blasted over lack of child exploitation prevention days after scrapping controversial CSAM plan",
+      description:
+        "Australia's first-ever eSafety report says companies like Apple aren't doing enough to detect child abuse material and grooming.",
+      url: "https://www.imore.com/apple/apple-blasted-over-lack-of-child-exploitation-prevention-days-after-scrapping-controversial-csam-plan",
+      urlToImage:
+        "https://cdn.mos.cms.futurecdn.net/BbLDRpptxztdxwEKCfcyrD-1200-80.jpg",
+      publishedAt: "2022-12-15T12:09:37Z",
+      content:
+        "The world's first-ever report from Australia's eSafety Commissioner says that companies including Apple are not doing enough to tackle child sexual exploitation on platforms like iOS and iCloud, just… [+2577 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "iMore",
+      },
+      author: "heyimjoew@gmail.com (Joe Wituschek)",
+      title: "Physical security keys are coming to the iPhone with iOS 16.3",
+      description:
+        "With the iOS 16.3, iPadOS 16.3, and macOS Ventura 13.2 developer betas, Apple has added support for physical security keys.",
+      url: "https://www.imore.com/ios/physical-security-keys-are-coming-to-the-iphone-with-ios-163",
+      urlToImage:
+        "https://cdn.mos.cms.futurecdn.net/jeuDntJgBLrGpXQe5qibw7-1200-80.jpg",
+      publishedAt: "2022-12-15T01:48:37Z",
+      content:
+        "It looks like we're closer than we may have thought to get support for physical security keys on the iPhone, iPad, and Mac.\r\nIn the latest developer betas for iOS, iPadOS, and macOS, Apple has added … [+1769 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "iMore",
+      },
+      author: "Stephen Warwick",
+      title:
+        "iOS 16.3, WatchOS 9.3 iPadOS 16.3, and macOS Ventura 13.2 betas drop: here's what you need to know",
+      description:
+        "Apple has released the first round of developer betas for iOS 16.3, WatchOS 9.3 iPadOS 16.3, and Ventura 13.2.",
+      url: "https://www.imore.com/apple/ios-163-watchos-93-ipados-163-and-macos-ventura-132-betas-drop-heres-what-you-need-to-know",
+      urlToImage:
+        "https://cdn.mos.cms.futurecdn.net/YrtJAU6fVFXRyWrdrh6FAf-1200-80.jpg",
+      publishedAt: "2022-12-15T14:28:39Z",
+      content:
+        "Apple has released the first round of developer betas for the next iteration of its various software on iPhone, iPad, Mac, Apple Watch, and Apple TV. The company released the public versions of its m… [+4207 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "iMore",
+      },
+      author: "Tammy Rogers",
+      title:
+        "Apple Watch not round enough for you? Save over $100 on a Fossil Gen 6 smartwatch for the perfect Christmas gift",
+      description:
+        "Apple Watches are all well and good, but sometimes you want something that looks a little more conventional from an established watchmaker - and you can currently save $140 off a Fossil Gen-6 smart watch.",
+      url: "https://www.imore.com/health-fitness/apple-watch/apple-watch-not-round-enough-for-you-save-over-dollar100-on-a-fossil-gen-6-smartwatch-for-the-perfect-christmas-gift",
+      urlToImage:
+        "https://cdn.mos.cms.futurecdn.net/wtD9aChPVeYS2yc72vpuXd-1200-80.jpg",
+      publishedAt: "2022-12-15T13:00:06Z",
+      content:
+        "The Apple Watch design is not to everyone's taste - it is, after all, somewhat square. For people that like a more conventional round watch face on their wrist, there are companies like Fossil that m… [+1316 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "iMore",
+      },
+      author: "Stephen Warwick",
+      title:
+        "Apple's MacBook Air could be getting a brand-new size in just a few weeks",
+      description:
+        "An insider says production for panels on a new 15-inch MacBook Air will being in the spring of 2023, suggesting a release is close at hand.",
+      url: "https://www.imore.com/mac/macbook/apples-macbook-air-could-be-getting-a-brand-new-size-in-just-a-few-weeks",
+      urlToImage:
+        "https://cdn.mos.cms.futurecdn.net/PBRTyUuBfUTQy3PhmXZ4vj-1200-80.jpg",
+      publishedAt: "2022-12-15T14:24:46Z",
+      content:
+        "A top insider says that Apple is planning to release a brand-new MacBook Air early next year. \r\nAccording to Ross Young (via MacRumors), production on the panels for the new 15.5-inch MacBook Air wil… [+1652 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "iMore",
+      },
+      author: "heyimjoew@gmail.com (Joe Wituschek)",
+      title:
+        "iPhone 14's Emergency SOS via satellite feature leads to daring helicopter rescue",
+      description:
+        "Apple's new Emergency SOS via satellite feature on the iPhone 14 helped first responders find and rescue a couple who had driven off the road.",
+      url: "https://www.imore.com/iphone/iphone-14s-emergency-sos-via-satellite-feature-leads-to-daring-helicopter-rescue",
+      urlToImage:
+        "https://cdn.mos.cms.futurecdn.net/kLqgH94v6TdzTCr8APUmLU-1200-80.png",
+      publishedAt: "2022-12-15T00:58:38Z",
+      content:
+        "Apple's Emergency SOS via satellite feature for the iPhone 14 and iPhone 14 Pro came to the rescue for a couple in California on Tuesday.\r\nThe Montrose Search and Rescue Team took to Twitter to share… [+1887 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "/FILM",
+      },
+      author: "BJ Colangelo",
+      title:
+        "A Sing-Along Version Of Apple's Holiday Musical Spirited Is Hitting Theaters This Weekend",
+      description:
+        'For fans of "Spirited," the Christmas movie musical starring Will Ferrell and Ryan Reynolds, Santa is delivering an early gift this year. As was announced via Deadline, Apple Original Films will be showing a special theatrical release of "Spirited," complete …',
+      url: "https://www.slashfilm.com/1138479/a-sing-along-version-of-apples-holiday-musical-spirited-is-hitting-theaters-this-weekend/",
+      urlToImage:
+        "https://www.slashfilm.com/img/gallery/a-sing-along-version-of-apples-holiday-musical-spirited-is-hitting-theaters-this-weekend/l-intro-1671072545.jpg",
+      publishedAt: "2022-12-15T02:51:41Z",
+      content:
+        'For fans of "Spirited," the Christmas movie musical starring Will Ferrell and Ryan Reynolds, Santa is delivering an early gift this year. As was announced via Deadline, Apple Original Films will be s… [+1210 chars]',
+    },
+
+    {
+      source: {
+        id: null,
+        name: "Vox",
+      },
+      author: "Rani Molla",
+      title: "How workers fought back in 2022",
+      description:
+        "Workers don’t want their jobs to go back to how they were before the pandemic.",
+      url: "https://www.vox.com/recode/2022/12/15/23505303/workers-2022-quits-remote-work-unions",
+      urlToImage:
+        "https://cdn.vox-cdn.com/thumbor/yWYTh4g94r--MgypXXubL0vK2e4=/0x235:3900x2277/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24288608/GettyImages_1245289556a.jpg",
+      publishedAt: "2022-12-15T12:00:00Z",
+      content:
+        "Gloria Bartolo leads marching postdoctoral scholars and academic researchers as they demand better wages, student housing, child care, and more from the University of California Los Angeles, on Decem… [+18926 chars]",
+    },
+
+    {
+      source: {
+        id: null,
+        name: "Vida Extra",
+      },
+      author: "Frankie MB",
+      title:
+        "Los mejores videojuegos de Netflix: 21 propuestas gratuitas incluidas con tu suscripción",
+      description:
+        "Proponerte que descubras nuevos videojuegos es una de las cosas que más nos gustan, y si están incluidos en una suscripción que ya tienes, o a la que tienes acceso, todavía mejor. Es más, Netflix tiene su propio catálogo de más de 40 juegos y para disfrutarlo…",
+      url: "https://www.vidaextra.com/listas/mejores-juegos-gratis-netflix",
+      urlToImage:
+        "https://i.blogs.es/bac01c/maxresdefault---2022-12-13t223704.961/840_560.jpeg",
+      publishedAt: "2022-12-15T11:31:03Z",
+      content:
+        "Proponerte que descubras nuevos videojuegos es una de las cosas que más nos gustan, y si están incluidos en una suscripción que ya tienes, o a la que tienes acceso, todavía mejor. Es más, Netflix tie… [+9393 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "MacRumors",
+      },
+      author: "Joe Rossignol",
+      title:
+        "Apple Maps Redesign Expands to Netherlands and Four More Countries",
+      description:
+        "Apple today announced that its revamped Maps app is rolling out in the Netherlands, Belgium, Liechtenstein, Luxembourg, and Switzerland. The new experience provides more detail, improved navigation, custom-designed 3D models of popular landmarks, immersive tu…",
+      url: "https://www.macrumors.com/2022/12/15/apple-maps-redesign-europe-expansion/",
+      urlToImage:
+        "https://images.macrumors.com/t/QuXHtRDIMg1EO74p6j5vIAs6NkI=/1600x/article-new/2022/03/apple-maps-3d-feature.jpg",
+      publishedAt: "2022-12-15T13:58:00Z",
+      content:
+        "Apple today announced that its revamped Maps app is rolling out in the Netherlands, Belgium, Liechtenstein, Luxembourg, and Switzerland. The new experience provides more detail, improved navigation, … [+791 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "MacRumors",
+      },
+      author: "Hartley Charlton",
+      title: "AirPods Max 2: Everything We Know About Features and Launch Date",
+      description:
+        "Apple's AirPods Max launched two years ago today, but rumors about a successor remain thin on the ground, so what exactly can we expect from ‌‌AirPods Max‌‌ 2?\n\n\n\n\n\nAfter months of rumors, the ‌AirPods Max‌ began arriving with customers two years ago today, b…",
+      url: "https://www.macrumors.com/2022/12/15/airpods-max-2-features-and-launch-date/",
+      urlToImage:
+        "https://images.macrumors.com/t/-i7BEU1JFoEEqTUpF8qo7Tronn8=/2500x/article-new/2022/12/AirPods-Max-Gen-2-Feature-Black-2.jpg",
+      publishedAt: "2022-12-15T09:00:00Z",
+      content:
+        "Apple's AirPods Max launched two years ago today, but rumors about a successor remain thin on the ground, so what exactly can we expect from ‌AirPods Max‌ 2?\r\nAfter months of rumors, the ‌AirPods Max… [+5689 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Xatakamovil.com",
+      },
+      author: "Alberto García",
+      title:
+        "El Apple Watch SE a precio mínimo histórico: el reloj inteligente más económico de la marca ahora es más barato por Navidad",
+      description:
+        "Hay muchos relojes inteligentes en el mercado: Samsung, OPPO y un sinfín de marcas tienen los suyos propios, aunque en precio, y no por ser baratos, nadie gana a Apple. Cada uno de los modelos suelen rondar por los cientos o casi mil euros, pero el Apple Watc…",
+      url: "https://www.xatakamovil.com/guias-de-compra/apple-watch-se-a-precio-minimo-historico-reloj-inteligente-economico-marca-ahora-barato-navidad",
+      urlToImage: "https://i.blogs.es/796a5b/apple-watch-se/840_560.jpg",
+      publishedAt: "2022-12-15T16:01:09Z",
+      content:
+        "Hay muchos relojes inteligentes en el mercado: Samsung, OPPO y un sinfín de marcas tienen los suyos propios, aunque en precio, y no por ser baratos, nadie gana a Apple. Cada uno de los modelos suelen… [+1614 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Xatakamovil.com",
+      },
+      author: "Pepu Ricca",
+      title: "Cómo cambiar el idioma de WhatsApp Web",
+      description:
+        "WhatsApp es la reina de la mensajería instantánea y está presente en todo tipo de dispositivos. Incluso podemos usarla desde nuestro navegador, versión nombrada como WhatsApp Web. Esta famosa app se encuentra localizada en 60 idiomas, pero no podemos cambiar …",
+      url: "https://www.xatakamovil.com/tutoriales/como-cambiar-idioma-whatsapp-web",
+      urlToImage: "https://i.blogs.es/886b93/whats_app/840_560.jpg",
+      publishedAt: "2022-12-15T15:01:09Z",
+      content:
+        "WhatsApp es la reina de la mensajería instantánea y está presente en todo tipo de dispositivos. Incluso podemos usarla desde nuestro navegador, versión nombrada como WhatsApp Web. Esta famosa app se … [+3971 chars]",
+    },
+
+    {
+      source: {
+        id: null,
+        name: "Caschys Blog",
+      },
+      author: "Benjamin Mamerow",
+      title:
+        "Apple bringt zweiteiligen Dokumentarfilm über Boris Becker zu Apple TV+",
+      description:
+        "„Ich bin drin. Das war ja einfach.“ Seit April dieses Jahres sitzt Boris Becker nun in britischer Haft. Apple möchte in einem zweiteiligen Dokumentarfilm-Event die letzten drei Jahre vor seiner Verurteilung beleuchten und die Tennislegende auch kurz vor seine…",
+      url: "https://stadt-bremerhaven.de/apple-bringt-zweiteiligen-dokumentarfilm-ueber-boris-becker-zu-apple-tv/",
+      urlToImage:
+        "https://stadt-bremerhaven.de/wp-content/uploads/2021/02/apple-tv-1.jpg",
+      publishedAt: "2022-12-15T09:30:41Z",
+      content:
+        "„Ich bin drin. Das war ja einfach.“ Seit April dieses Jahres sitzt Boris Becker nun in britischer Haft. Apple möchte in einem zweiteiligen Dokumentarfilm-Event die letzten drei Jahre vor seiner Verur… [+1090 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Caschys Blog",
+      },
+      author: "Olli",
+      title: "Safari Technology Preview: Version 160 veröffentlicht",
+      description:
+        "In 2016 führte Apple die Möglichkeit ein, neben der finalen Version von Safari auch eine Beta auf dem Mac zu installieren. Die trägt den Namen „Safari Technology Preview“ und ist in einer neuen Version erschienen. Das Release besitzt die Nummer...Zum Beitrag:…",
+      url: "https://stadt-bremerhaven.de/safari-technology-preview-version-160-veroeffentlicht/",
+      urlToImage:
+        "https://stadt-bremerhaven.de/wp-content/uploads/2022/09/Safari-Technology.jpeg",
+      publishedAt: "2022-12-15T15:00:58Z",
+      content:
+        "In 2016 führte Apple die Möglichkeit ein, neben der finalen Version von Safari auch eine Beta auf dem Mac zu installieren. Die trägt den Namen Safari Technology Preview und ist in einer neuen Version… [+1197 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Caschys Blog",
+      },
+      author: "caschy",
+      title: "MacBook Air: 15,5 zoll großes Modell angeblich im Frühjahr 2023",
+      description:
+        "Ross Young, Analyst und CEO der Display Supply Chain Consultants, hat mal wieder aus dem Nähkästchen geplaudert. Er hat gute Insights in die Zulieferer- und Herstellerkette und hat schon des Öfteren gute Treffer gelandet. Laut ihm scheint es so, dass...Zum Be…",
+      url: "https://stadt-bremerhaven.de/macbook-air-155-zoll-grosses-modell-angeblich-im-fruehjahr-2023/",
+      urlToImage:
+        "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/Apple.jpg",
+      publishedAt: "2022-12-15T15:30:12Z",
+      content:
+        "Ross Young, Analyst und CEO der Display Supply Chain Consultants, hat mal wieder aus dem Nähkästchen geplaudert. Er hat gute Insights in die Zulieferer- und Herstellerkette und hat schon des Öfteren … [+1013 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Caschys Blog",
+      },
+      author: "André Westphal",
+      title:
+        "Signal: Neue Version des Messengers mit Verbesserungen für Gruppenanrufe",
+      description:
+        "Signal steht in einer neuen Version zur Verfügung, die zum einen laut den Entwicklern Verbesserungen bei Gruppenanrufen mit sich bringt und zum anderen PayPal-Unterstützung bei Spenden ermöglicht. Konkreter: Beim Start eines Gruppenanrufes können Nutzer nun e…",
+      url: "https://stadt-bremerhaven.de/signal-neue-version-des-messengers-mit-verbesserungen-fuer-gruppenanrufe/",
+      urlToImage:
+        "https://stadt-bremerhaven.de/wp-content/uploads/2022/07/signal-logo.png",
+      publishedAt: "2022-12-15T13:00:49Z",
+      content:
+        "Signal steht in einer neuen Version zur Verfügung, die zum einen laut den Entwicklern Verbesserungen bei Gruppenanrufen mit sich bringt und zum anderen PayPal-Unterstützung bei Spenden ermöglicht. Ko… [+1061 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Caschys Blog",
+      },
+      author: "caschy",
+      title: "Vodafone startet Callya-Promo",
+      description:
+        "Vodafone hat seine X-Mas Callya-Promo gestartet. Neukunden in den Tarifen CallYa Allnet Flat S, CallYa Allnet Flat M und CallYa Allnet Flat L erhalten im Promo-Zeitraum bei den ersten 6 Bezahlungen ihres Tarifbasispreises jeweils doppeltes Datenvolumen (28 Ta…",
+      url: "https://stadt-bremerhaven.de/vodafone-startet-callya-promo/",
+      urlToImage:
+        "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/callya_.jpg",
+      publishedAt: "2022-12-15T07:15:05Z",
+      content:
+        "Vodafone hat seine X-Mas Callya-Promo gestartet. Neukunden in den Tarifen CallYa Allnet Flat S, CallYa Allnet Flat M und CallYa Allnet Flat L erhalten im Promo-Zeitraum bei den ersten 6 Bezahlungen i… [+1137 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Caschys Blog",
+      },
+      author: "caschy",
+      title: "Matter ist jetzt auf Google-Nest- und Android-Geräten verfügbar",
+      description:
+        "Im Oktober kündigte Google an, dass Matter bald kommen wird – und nun geht es auch schon los. Matter ist jetzt für Google Home auf Nest- und Android-Geräten verfügbar, gerade rechtzeitig zu den Feiertagen. Die iOS-Unterstützung der Google-Home-App für Matter.…",
+      url: "https://stadt-bremerhaven.de/matter-ist-jetzt-auf-google-nest-und-android-geraeten-verfuegbar/",
+      urlToImage:
+        "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/Google-Matter_.jpg",
+      publishedAt: "2022-12-15T14:27:54Z",
+      content:
+        "Im Oktober kündigte Google an, dass Matter bald kommen wird – und nun geht es auch schon los. Matter ist jetzt für Google Home auf Nest- und Android-Geräten verfügbar, gerade rechtzeitig zu den Feier… [+2274 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "IndieWire",
+      },
+      author: "Brian Welk",
+      title:
+        "Sundance 2023 Movie Deals So Far: Paramount and Netflix Bite First",
+      description:
+        'The free-diving documentary "The Deepest Breath" and the horror romance "My Animal" both found homes.',
+      url: "https://www.indiewire.com/feature/sundance-2023-movie-deals-complete-list-1234789495/",
+      urlToImage:
+        "https://www.indiewire.com/wp-content/uploads/2022/12/The_Deepest-Breath_Still1.jpg?w=780",
+      publishedAt: "2022-12-15T15:00:45Z",
+      content:
+        "It won’t hurt that the 2023 Sundance Film Festival will be back in-person in Park City for the first time since 2020, but this year’s fest is swimming with potential sales titles. Starry, English-lan… [+12783 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "MSPoweruser",
+      },
+      author: "Kyrie Mattos",
+      title: "Know How Alternative App Store Works on iOS",
+      description:
+        "Sponsored The most popular app stores among customers are the Google Play Store and the Apple App Store. Both of these app stores have the highest amount of downloads available for customers to choose from. They are the official download site for several mobi…",
+      url: "https://mspoweruser.com/know-how-alternative-app-store-works-on-ios/",
+      urlToImage:
+        "https://mspoweruser.com/wp-content/uploads/2022/12/1174440.jpg",
+      publishedAt: "2022-12-15T08:18:02Z",
+      content:
+        "Sponsored\r\nThe most popular app stores among customers are the Google Play Store and the Apple App Store. Both of these app stores have the highest amount of downloads available for customers to choo… [+7163 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Frandroid",
+      },
+      author: "Arielle Lovasoa",
+      title:
+        "Apple HomePod mini : un cadeau en musique et moins cher pour Noël",
+      description:
+        "Le succès de l'Apple HomePod mini a mis loin derrière le résultat mitigé de la HomePod. La marque à la Pomme a su trouver la formule gagnante pour son enceinte connectée. Au lieu de 99 euros habituellement, l'Apple HomePod mini est à 89 euros actuellement sur…",
+      url: "https://www.frandroid.com/bons-plans/1564634_apple-homepod-mini-un-cadeau-en-musique-et-moins-cher-pour-noel",
+      urlToImage:
+        "https://images.frandroid.com/wp-content/uploads/2020/10/apple-homepod-mini.jpg",
+      publishedAt: "2022-12-15T08:21:07Z",
+      content:
+        "Le succès de l'Apple HomePod mini a mis loin derrière le résultat mitigé de la HomePod. La marque à la Pomme a su trouver la formule gagnante pour son enceinte connectée. Au lieu de 99 euros habituel… [+2927 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Frandroid",
+      },
+      author: "Romain Heuillard",
+      title: "Dell Concept Luna : ce PC se démonte et se répare en 1 minute",
+      description:
+        "Dell présente une évolution du Concept Luna. Désormais, on peut démonter ce PC portable réparable en moins d'une minute. Problème : ce n'est encore qu'un concept, alors que les concurrents Framework et HP ont déjà ouvert la voie. Dell nous a invité à New York…",
+      url: "https://www.frandroid.com/marques/dell/1564472_dell-concept-luna-ce-pc-se-demonte-et-se-repare-en-1-minute",
+      urlToImage:
+        "https://images.frandroid.com/wp-content/uploads/2022/12/dell-concept-luna-disassembled.jpg",
+      publishedAt: "2022-12-15T14:00:41Z",
+      content:
+        "Dell présente une évolution du Concept Luna. Désormais, on peut démonter ce PC portable réparable en moins d'une minute. Problème : ce n'est encore qu'un concept, alors que les concurrents Framework … [+5364 chars]",
+    },
+    {
+      source: {
+        id: null,
+        name: "Wwwhatsnew.com",
+      },
+      author: "Juan Diego Polo",
+      title:
+        "Cómo invertir en bolsa, incluyendo Apple, Amazon, Tesla y Google, desde el móvil",
+      description:
+        "Si estás pensando en invertir en bolsa, pero no sabes ni por dónde empezar, presta atención, porque hay una forma bastante sencilla de hacerlo sin moverse del sofá. La bolsa de valores es un mercado donde se negocian acciones de empresas. Las acciones represe…",
+      url: "https://wwwhatsnew.com/2022/12/15/como-invertir-en-bolsa-incluyendo-apple-amazon-tesla-y-google-desde-el-movil/",
+      urlToImage:
+        "https://wwwhatsnew.com/wp-content/uploads/2022/12/invertir-en-bolsa.jpg",
+      publishedAt: "2022-12-15T15:00:42Z",
+      content:
+        "Si estás pensando en invertir en bolsa, pero no sabes ni por dónde empezar, presta atención, porque hay una forma bastante sencilla de hacerlo sin moverse del sofá.\r\nLa bolsa de valores es un mercado… [+5840 chars]",
+    },
+  ]; 
